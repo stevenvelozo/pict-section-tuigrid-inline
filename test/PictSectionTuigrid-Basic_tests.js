@@ -1,6 +1,5 @@
 /*
 	Unit tests for PictSectionTuigrid Basic
-	
 */
 
 // This is temporary, but enables unit tests
