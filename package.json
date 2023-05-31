@@ -1,6 +1,6 @@
 {
     "name": "pict-section-tuigrid-inline",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Pict Toast UI Grid Section with TuiGrid included in the package",
     "main": "source/Pict-Section-TuiGrid-Inline.js",
     "scripts": {
